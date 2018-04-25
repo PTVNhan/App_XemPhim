@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Đếm Ứng Dụng Mở</string>
+<string name="turn_on">Mở đền</string>
+<string name="turn_off">Tắt đèn</string>
+<string name="app_launch_count">Số lần ứng dụng được mở: </string>
+</resources>

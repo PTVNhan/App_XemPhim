@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppLaunchCount</string>
+    <string name="turn_on">Turn on the light</string>
+    <string name="turn_off">Turn off the light</string>
+    <string name="app_launch_count">The number of times the app has been opened: </string>
+</resources>
